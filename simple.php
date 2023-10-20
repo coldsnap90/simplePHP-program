@@ -18,7 +18,7 @@
         $email = $_GET['email];
         echo "My name is $name !";
         echo "I'm $age years old";
-        echo "and my email is $email ."
+        echo "and my email is $email .";
 ?>
   
 
