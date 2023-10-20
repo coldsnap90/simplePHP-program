@@ -4,7 +4,7 @@
 
 <h1>My first PHP page</h1>
   
-<form action="simple.php" method= "get">
+<form action="simple.php" method= "post">
   Name: <input type="text" name="first_name">
   Age:  <input type="text" name="age">
   Email: <input type="text" name="email">
